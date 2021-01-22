@@ -5,8 +5,8 @@
 
 Here is a little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 HTML & PHP
+- 🔭 I’m currently working on Scipts
+- 🌱 Learning Lots
 - 🌱 What do I know? Javascript
 - 👯 I’m looking to collaborate on a few projects
 - 🤔 I’m looking for help with N/A
@@ -14,3 +14,5 @@ Here is a little about me:
 - 📫 How to reach me: The Lost Bandits#7481
 - ⚡ Fun fact: What year was the most babies born? 2007
 
+- Website: https://thebandit.xyz
+- Discord: https://thebandit.xyz/discord
