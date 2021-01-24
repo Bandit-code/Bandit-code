@@ -16,3 +16,5 @@ Here is a little about me:
 
 - Website: https://thebandit.xyz
 - Discord: https://thebandit.xyz/discord
+- LOL
+
