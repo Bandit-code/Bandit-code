@@ -8,7 +8,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Bandit-Code&label=Views&color=blue&style=plastic)
 
-I'm a Middle School/Highschool student, Looking to get into Software I have a few repo that can show some of my work if you would like to know more about me please checck my work and my youtube, github, twitter, website!
+I'm a Middle School/Highschool student, Looking to get into Software I have a few repo that can show some of my work if you would like to know more about me please check my work and my youtube, github, twitter, website!
 
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
