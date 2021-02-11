@@ -1,20 +1,59 @@
-### Hi there 👋
+## Hey 👋, I'm [Bandit!](https://github.com/Bandit-code/)
+
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://thebandit.xyz/discord)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://thebandit.xyz/youtube)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://thebandit.xyz/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/thebandit)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/Bandit-code)
+
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic)
+
+I'm a Middle School/Highschool student, Looking to get into Software I have a few repo that can show some of my work if you would like to know more about me please checck my work and my youtube, github, twitter, website!
 
 
-**Bandit-code/Bandit-code** is ✨ _special_ ✨
+<img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
-Here is a little about me:
+### Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on Scipts
-- 🌱 Learning Lots
-- 🌱 What do I know? Javascript
-- 👯 I’m looking to collaborate on a few projects
-- 🤔 I’m looking for help with N/A
-- 💬 Ask me about Anything
-- 📫 How to reach me: The Lost Bandits#6999
-- ⚡ Fun fact: What year was the most babies born? 2007
+- 🛠 &nbsp; I’m currently working with Javascript, PHP, HTML, CSS, Python, etc.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Bandit-code).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/Bandit-code/Bandit-code/issues)! I am happy to help :]
+- 📫 &nbsp; How to reach me: bandit@thebandit.xyz
 
-- Website: https://thebandit.xyz
-- Discord: https://thebandit.xyz/discord
-- LOL
+### Languages and Tools:
 
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### ⚙️ &nbsp;GitHub Stats
+
+<p align="left">
+<a href="https://github.com/Itz-Hyperz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Itz-Hyperz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Itz-Hyperz&layout=compact&langs_count=8&theme=react"/>
+</a>
+</p>
+
+---
+
+### ⚙️ My Resources & Tools:
+
+- OS: Windows 10
+- Hardware: 
+- Processor: AMD Ryzen 7 3700X 8-Core Processor
+- Video Card: NVIDIA GeForce GTX 1660 SUPER
+- RAM: 16gb
+- Browser: Chrome
+- Code Editor: VSCode - The best editor out there
+- Stay Updated: YouTube, Discord and Twitter
+
+---
+
+<h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
+
+---
