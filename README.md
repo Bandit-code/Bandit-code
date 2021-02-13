@@ -55,6 +55,5 @@ I'm a Middle School/Highschool student, Looking to get into Software I have a fe
 ---
 
 <h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
-<h3 align=center>Show some ❤️ to Hyperz#0001
 !</h3>
 ---
